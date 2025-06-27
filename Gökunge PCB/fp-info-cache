@@ -1,4 +1,4 @@
-25154785941889253
+25161789662425966
 3rdparty
 SK6812-MINI-E
 
@@ -65590,6 +65590,20 @@ OLED Placeholder
 0
 0
 Keyboard_Plate
+OLED_SH1007_Plate
+Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI https://learn.adafruit.com/monochrome-oled-breakouts/downloads
+Adafruit SSD1306 OLED 1.3 inch 128x64 I2C & SPI 
+0
+0
+0
+Keyboard_Plate
+PKRHSL
+
+
+0
+0
+0
+Keyboard_Plate
 Planck Spacer
 Mounting Hole 2.5mm, no annular
 mounting hole 2.5mm no annular
@@ -65600,6 +65614,13 @@ Keyboard_Plate
 Plate_Split_Backspace
 MX-style stabilizer mount
 MX,cherry,gateron,kailh,pg1511,stabilizer,stab
+0
+0
+0
+Keyboard_Plate
+Poke Hole 1,6
+Mounting Hole 2.1mm, no annular
+mounting hole 2.1mm no annular
 0
 0
 0
@@ -65696,6 +65717,13 @@ Cherry MX Keyboard Stabilizer 2.00u 2.25u 2.50u 2.75u Cutout
 0
 Keyboard_Plate
 Stabilizer_Cherry_MX_2.00u_PLate_1_2
+Cherry MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u
+Cherry MX Keyboard Stabilizer 2.00u 2.25u 2.50u 2.75u Cutout
+0
+0
+0
+Keyboard_Plate
+Stabilizer_Cherry_MX_2.00u_Plate_3x1u_2x2u
 Cherry MX PCB Stabilizer 2.00u 2.25u 2.50u 2.75u
 Cherry MX Keyboard Stabilizer 2.00u 2.25u 2.50u 2.75u Cutout
 0
